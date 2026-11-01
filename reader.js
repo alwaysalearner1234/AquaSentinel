@@ -1,0 +1,1 @@
+// Reader script - this won't work without Node APIs
